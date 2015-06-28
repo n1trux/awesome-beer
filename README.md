@@ -6,40 +6,50 @@ If you want to contribute, feel free to open a pull request – but read the [gu
 
 ## Beck's
 
-Origin | Germany
+Brewery | |
+:--- | :---
+Origin | Germany 
 
 ### Pils
 
 Variation | Pilsener
+:--- | :---
 Taste | refreshingly light but still bitter
 Homepage URL | [Germany](https://www.becks.de/becks/pils)
 Alcohol | 4.9%
 
 ### Green Lemon
 
-Variation | Mix
+Variation | Lemon Mix
+:--- | :---
 Taste | lemon mixed with light beer
 Alcohol | 2.5%
 
 
 ## Bitburger
 
+Brewery | |
+:--- | :---
 Origin | Germany
 
 ### Pils
 
 Variation | Pilsener
+:--- | :---
 Taste | malty, smooth
 Alcohol | 4.8%
 
 
 ## Warsteiner
 
+Brewery | |
+:--- | :---
 Origin | Germany
 
 ### Premium Verum
 
 Variation | Pilsener
+:--- | :---
 Taste | intensive, bitter
 Homepage URL | [Germany](http://www.warsteiner.de/unser-bier/premium-verum/)
 Alcohol | 4.8%
