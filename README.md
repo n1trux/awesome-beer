@@ -7,6 +7,7 @@ If you want to contribute, feel free to open a pull request – but read the [gu
   - [Beck's](#becks)
   - [Bitburger](#bitburger)
   - [Warsteiner](#warsteiner)
+  - [Veltins V+](#veltins-v-plus)
 
 
 ## Beck's
@@ -58,3 +59,11 @@ Variation | Pilsener
 Taste | intensive, bitter
 Homepage URL | [Germany](http://www.warsteiner.de/unser-bier/premium-verum/)
 Alcohol | 4.8%
+
+## <a id="veltins-v-plus"></a> Veltins V+
+|              |                                                |
+|:------------:|:----------------------------------------------:|
+| Variation    | Shandy                                         |
+| Taste        | Multiple. See Homepage                         |
+| Homepage URL | [Germany](http://www.vplus.de/vplus/produkte/) |
+| Alcohol      | Multiple. See Homepage                         |
