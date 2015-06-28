@@ -3,6 +3,11 @@ A compilation of awesome beers and beer-like beverages.
 
 If you want to contribute, feel free to open a pull request – but read the [guidelines](contributing.md) first.
 
+**Table of Contents**
+  - [Beck's](#becks)
+  - [Bitburger](#bitburger)
+  - [Warsteiner](#warsteiner)
+
 
 ## Beck's
 
