@@ -6,6 +6,7 @@ If you want to contribute, feel free to open a pull request – but read the [gu
 **Table of Contents**
   - [Beck's](#becks)
   - [Bitburger](#bitburger)
+  - [Veltins V+](#veltins-v-plus)
   - [Warsteiner](#warsteiner)
 
 
@@ -44,6 +45,13 @@ Variation | Pilsener
 Taste | malty, smooth
 Alcohol | 4.8%
 
+## <a id="veltins-v-plus"></a> Veltins V+
+|              |                                                |
+|:------------:|:----------------------------------------------:|
+| Variation    | Shandy                                         |
+| Taste        | Multiple. See Homepage                         |
+| Homepage URL | [Germany](http://www.vplus.de/vplus/produkte/) |
+| Alcohol      | Multiple. See Homepage                         |
 
 ## Warsteiner
 
