@@ -6,6 +6,7 @@ If you want to contribute, feel free to open a pull request – but read the [gu
 **Table of Contents**
   - [Beck's](#becks)
   - [Bitburger](#bitburger)
+  - [Ottakringer](#ottakringer)
   - [Veltins V+](#veltins-v-plus)
   - [Warsteiner](#warsteiner)
 
@@ -44,6 +45,23 @@ Variation | Pilsener
 :--- | :---
 Taste | malty, smooth
 Alcohol | 4.8%
+
+
+## Ottakringer
+
+Brewery | |
+:--- | :---
+Origin | Austria
+
+### Wiener Original
+
+Variation | Wiener Lager / Vienna Lager
+:--- | :---
+Taste | a bit malty
+Homepage URL | [Austria](http://www.ottakringerbrauerei.at/de/unsere-biere/ottakringer)
+Alcohol | 5.3%
+
+
 
 ## <a id="veltins-v-plus"></a> Veltins V+
 |              |                                                |
